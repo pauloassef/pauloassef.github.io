@@ -6,7 +6,7 @@
 
 ## 🚀 About
 
-Welcome to my professional CV repository! I'm a seasoned Cybersecurity Manager with extensive experience in Cyber Defense Governance and Risk Management. This repository hosts my professional curriculum vitae, showcasing my experience, skills, and achievements in the cybersecurity domain.
+Welcome to my professional resume repository! I'm a seasoned Cybersecurity Manager with extensive experience in Cyber Defense Governance and Risk Management. This repository hosts my professional curriculum vitae, showcasing my experience, skills, and achievements in the cybersecurity domain.
 
 ## 🛡️ Professional Overview
 
