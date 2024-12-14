@@ -1,4 +1,4 @@
-# Paulo Assef - Professional CV
+# Paulo Assef - Professional Resume
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/pauloassef)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red.svg)
